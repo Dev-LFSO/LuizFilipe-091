@@ -7,12 +7,12 @@
 
 - 🌱 Estou aprendendo sobre **Desenvolvimento Web, Python, etc.**
 
-- 👨‍💻 Todos meus projetos estão em [https://github.com/luix-091?tab=repositories](https://github.com/luix-091?tab=repositories)
+- 👨‍💻 Todos meus projetos estão aqui (https://github.com/Luiz-Filipe-091?tab=repositories)
 
 - 📫 Me contate **luiz.filipe.ctt@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luiz filipe santos oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz filipe santos oliveira" height="30" width="40" /></a>
-<a href="https://instagram.com/lu1x.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lu1x.z" height="30" width="40" /></a>
+<a href="https://instagram.com/luizfilipe.so" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luizfilipe.so" height="30" width="40" /></a>
 </p>
