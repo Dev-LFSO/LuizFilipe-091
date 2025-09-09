@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luix-091&label=Profile%20views&color=0e75b6&style=flat" alt="luix-091" /> </p>
 
-- 🔭 Estou trabalhando nos projetos [UNICADS](https://github.com/luix-091/UNICADS) e [Django](https://github.com/luix-091/Django)
+- 🔭 Estou trabalhando nos projetos [UNICADS](https://github.com/Dev-LFSO/UNICADS) e [Django](https://github.com/Dev-LFSO/Django)
 
 - 🌱 Estou aprendendo sobre **Desenvolvimento Web, Python, etc.**
 
